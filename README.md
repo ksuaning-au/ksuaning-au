@@ -20,7 +20,7 @@
 
 I work as a software engineer specializing in IoT applications.
 
-I obtained a degree in Mechatronics Engineering which provided me with a background in hardware & firmware design. During university I began creating IoT devices as a hobby while I studdied. Eventually I required a way to interface with my IoT devices remotely which led me towards web development. I started by learning HTML/CSS & Javascript through places like [Free Coding Camp](https://www.freecodecamp.org/) which was sped up considerablly thanks to my C/C++ background. After learning the basic frontend technologies chose to learn Python for backend development.
+I obtained a degree in Mechatronics Engineering which provided me with a background in hardware & firmware design. During university I began creating IoT devices as a hobby while I studdied. Eventually I required a way to interface with my IoT devices remotely which led me into web development. I started by learning HTML/CSS & Javascript through places like [Free Coding Camp](https://www.freecodecamp.org/). After learning the basic frontend technologies I chose to learn Python for backend development.
 
 After learning the full stack of web technologies and still at university I started a website building business. This catered mostly to local businesses looking to have a web presence for the first time. This allowed me to gain valuable experience while still studying.
 
@@ -28,7 +28,7 @@ Once I graduated I breifly worked at Cochlear working on digital signal processi
 
 ---
 
-I’m currently working on firmware for Nordic and Espressif devices.
+I’m currently working doing lots of firmware work for various embedded systems.
 
 ---
 <p align="center">
