@@ -19,7 +19,7 @@ Once I graduated I breifly worked at Cochlear working on digital signal processi
 
 I have professional Expe
 
-[![Top Langs](https://github-readme-stats-nu-pearl.vercel.app/api/top-langs/?username=ksuaning-au)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-nu-pearl.vercel.app/api/top-langs/?username=ksuaning-au)](https://github.com/ksuaning-au)
 
 <!--
 **ksuaning-au/ksuaning-au** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
