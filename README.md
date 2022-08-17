@@ -22,24 +22,10 @@ I obtained a degree in Mechatronics Engineering which provided me with a backgro
 
 After learning the full stack of web technologies and still at university I started a website building business. This catered mostly to local businesses looking to have a web presence for the first time. This allowed me to gain valuable experience while still studying.
 
-Once I graduated I breifly worked at Cochlear working on digital signal processing algorithms. After which I decided to go into freelancing which I have been doing for the past several years.
+Once I graduated I breifly worked at Cochlear working on digital signal processing algorithms. After which I decided to go into freelancing which I have been doing for the past several years working on the entire IoT stack.
 
-I have professional Expe
+---
+
+I’m currently working on firmware for Nordic and Espressif devices.
 
 [![Top Langs](https://github-readme-stats-nu-pearl.vercel.app/api/top-langs/?username=ksuaning-au)](https://github.com/ksuaning-au)
-
-<!--
-**ksuaning-au/ksuaning-au** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
