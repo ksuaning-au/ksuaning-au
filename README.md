@@ -31,5 +31,5 @@ I’m currently working on firmware for Nordic and Espressif devices.
 ---
 
 <a href="https://github.com/ksuaning-au" align="justify">
-  <img align="center" src="https://github-readme-stats-nu-pearl.vercel.app/api/top-langs/?username=ksuaning-au&layout=compact" />
+  <img align="center" src="https://github-readme-stats-nu-pearl.vercel.app/api/top-langs/?username=ksuaning-au&layout=compact&theme=radical" />
 </a>
