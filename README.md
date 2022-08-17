@@ -28,4 +28,4 @@ Once I graduated I breifly worked at Cochlear working on digital signal processi
 
 I’m currently working on firmware for Nordic and Espressif devices.
 
-[![Top Langs](https://github-readme-stats-nu-pearl.vercel.app/api/top-langs/?username=ksuaning-au)](https://github.com/ksuaning-au)
+[![Top Langs](https://github-readme-stats-nu-pearl.vercel.app/api/top-langs/?username=ksuaning-au&layout=compact)](https://github.com/ksuaning-au)
