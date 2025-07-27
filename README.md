@@ -25,9 +25,3 @@ I work as a software engineer specializing in IoT applications.
 I’m currently working doing lots of firmware work for various embedded systems.
 
 ---
-
-<p align="center">
-  <a href="https://github.com/ksuaning-au" align="justify">
-    <img align="center" src="https://github-readme-stats-nu-pearl.vercel.app/api/top-langs/?username=ksuaning-au&layout=compact&theme=github_dark&exclude_repo=github-readme-stats" />
-  </a>
-</p>
