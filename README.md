@@ -6,6 +6,6 @@ I work as a software engineer specializing in IoT applications.
 
 ---
 
-I’m currently working doing lots of firmware work for various embedded systems.
+I’m currently building out my own lineup of smart devices.
 
 ---
