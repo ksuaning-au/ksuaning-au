@@ -48,6 +48,8 @@ I specialize in building **IoT applications** — from firmware to cloud, from s
 
 [![Website](https://img.shields.io/badge/Website-pontec.au-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://pontec.au)
 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kajsuaning)
+
 ---
 
 </div>
