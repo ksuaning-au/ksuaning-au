@@ -5,6 +5,17 @@ Welcome to my github. It has a limited amount of stuff public but hopefully you 
 Any issues or pull requests are welcome!
 
 
+### My Businesses
+
+#### Pontec
+Software consulting and also the banner under which my IoT devices are being developed.
+[Pontec](https://pontec.au)
+
+#### Buyers AIgent
+AI data collation and analysis of the Australian property market.
+[Buyers AIgent](https://buyersaigent.com.au)
+
+---- 
 ### What I'm Working On
 
-I am currently teaching myself rust and building out my own line of IoT devices.
+Working on my software consulting business and my line of IoT devices.
