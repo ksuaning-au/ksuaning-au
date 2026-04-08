@@ -9,10 +9,12 @@ Any issues or pull requests are welcome!
 
 #### Pontec
 Software consulting and also the banner under which my IoT devices are being developed.
+
 [Pontec](https://pontec.au)
 
 #### Buyers AIgent
 AI data collation and analysis of the Australian property market.
+
 [Buyers AIgent](https://buyersaigent.com.au)
 
 ---- 
