@@ -7,10 +7,14 @@ Any issues or pull requests are welcome!
 
 ### My Businesses
 
-#### Pontec
+### Pontec Automation
+IoT device company. Currently we have smart gate controller but will be moving into agtech.
+[Pontec Automation](https://app.pontec.au/product)
+
+#### Pontec Consulting
 Software consulting and also the banner under which my IoT devices are being developed.
 
-[Pontec](https://pontec.au)
+[Pontec Consulting](https://pontec.au)
 
 #### Buyers AIgent
 AI data collation and analysis of the Australian property market.
