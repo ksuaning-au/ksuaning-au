@@ -12,6 +12,8 @@ IoT device company. Currently we have smart gate controller but will be moving i
 
 [Pontec Automation](https://app.pontec.au/product)
 
+[iOS App](https://apps.apple.com/us/app/pontec/id6800351875)
+
 #### Pontec Consulting
 Software consulting and also the banner under which my IoT devices are being developed.
 
