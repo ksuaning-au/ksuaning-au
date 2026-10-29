@@ -1,31 +1,36 @@
-## Hello I am Kaj Suaning
+## Hi, I'm Kaj Suaning 👋
 
-Welcome to my github. It has a limited amount of stuff public but hopefully you find something useful in here.
+Welcome to my GitHub. Not much here is public, but hopefully you find something useful. Issues and pull requests are always welcome!
 
-Any issues or pull requests are welcome!
+### 🛠️ What I'm working on
 
+My software consulting business and my line of IoT devices.
 
-### My Businesses
+---
 
-### Pontec Automation
-IoT device company. Currently we have smart gate controller but will be moving into agtech.
+### My businesses
 
-[Pontec Automation](https://app.pontec.au/product)
+<img src="https://app.pontec.au/pontec_icon.png" alt="Pontec" width="56" align="left" />
 
-[iOS App](https://apps.apple.com/us/app/pontec/id6800351875)
+#### [Pontec Automation](https://app.pontec.au/product)
+IoT devices, starting with a smart gate controller and moving into agtech.
 
-#### Pontec Consulting
-Software consulting and also the banner under which my IoT devices are being developed.
+<a href="https://apps.apple.com/us/app/pontec/id6800351875">
+  <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="40" />
+</a>
 
-[Pontec Consulting](https://pontec.au)
+<br clear="left" />
 
-#### Buyers AIgent
-AI data collation and analysis of the Australian property market.
+<img src="https://pontec.au/pontec_icon_sleek_v2_144x144.png" alt="Pontec Consulting" width="56" align="left" />
 
-[Buyers AIgent](https://buyersaigent.com.au)
+#### [Pontec Consulting](https://pontec.au)
+Software consulting, and the company my IoT devices are developed under.
 
+<br clear="left" />
 
----- 
-### What I'm Working On
+<img src="https://buyersaigent.com.au/assets/icon_colored-B0okYzgg.png" alt="Buyers AIgent" width="56" align="left" />
 
-Working on my software consulting business and my line of IoT devices.
+#### [Buyers AIgent](https://buyersaigent.com.au)
+AI that collects and analyses data on the Australian property market.
+
+<br clear="left" />
